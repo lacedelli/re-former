@@ -1,24 +1,17 @@
-# README
+# Forms project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Thoughts before dropping in
 
-Things you may want to cover:
+Rails is slowly but surely warming its way into my heart. With each program
+I make I realize just how much thought went into designing the underlying
+structure that permeates the evironment, and how easy really all this is;
+which, in all honesty, still strikes me as impressive, but I genuinely do 
+like it a lot more than I used to just a couple of weeks ago.
 
-* Ruby version
+Now it's the time for forms! I'm in all honesty, intimidated by them, but
+I do realize that it's mostly my lack of familiarity with them what's making
+me feel unsettled; it'll come with practice, I guess.
 
-* System dependencies
+25/June/2020
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
